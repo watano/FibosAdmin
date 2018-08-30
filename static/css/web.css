@@ -1,0 +1,174 @@
+body.ecommerce {
+	background: #f9f9f9;
+	color: #3e4d5c;
+	font: 14px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+}
+
+.ecommerce .header-navigation,
+.ecommerce .mainHeader h2,
+.sale-product1 h2,
+.sale-product2 h2,
+.recommended h2,
+.hotProductList h2,
+.featured-services h2,
+.zlnews h2,
+.testimonials-v1 h2 {
+	font: 18px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+	color: #3c3c3c;
+}
+
+.ecommerce .product-item h3 {
+	font: 14px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+	font-weight: normal;
+	color: #3c3c3c;
+	padding-top: 10px;
+	padding-bottom: 4px;
+}
+
+.ecommerce .product-item h3 a {
+	font: 14px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+	font-weight: normal;
+	color: #3c3c3c;
+}
+
+.ecommerce .pre-footer a {
+	font: 14px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+}
+
+.ecommerce .footer {
+	font: 14px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+}
+
+.ecommerce .steps-block-col a {
+	font: 18px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+}
+
+.ecommerce .steps-block-col em {
+	font: 14px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+}
+
+.product-item .pi-price {
+	font: 16px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+}
+
+.productPricechart h3 {
+	font: 16px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+	color: #3c3c3c;
+}
+
+.list-group-item a {
+	font: 15px '微软雅黑', '新宋体', '宋体', Arial, sans-serif;
+}
+
+a,
+article,
+aside,
+b,
+base,
+bdi,
+bdo,
+big,
+blockquote,
+body,
+br,
+button,
+canvas,
+caption,
+cite,
+code,
+col,
+colgroup,
+command,
+datalist,
+dd,
+del,
+details,
+div,
+dfn,
+dialog,
+dl,
+dt,
+em,
+embed,
+fieldset,
+figure,
+font,
+footer,
+form,
+frame,
+frameset,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+head,
+header,
+hr,
+html,
+i,
+iframe,
+img,
+input,
+ins,
+kbd,
+keygen,
+label,
+legend,
+li,
+link,
+map,
+mark,
+menu,
+menuitem,
+meta,
+meter,
+nav,
+noframes,
+noscript,
+object,
+ol,
+optgroup,
+option,
+output,
+p,
+param,
+pre,
+progress,
+q,
+rt,
+ruby,
+samp,
+script,
+section,
+select,
+small,
+source,
+span,
+strike,
+strong,
+style,
+sub,
+summary,
+sup,
+table,
+tbody,
+td,
+textarea,
+tfoot,
+th,
+thead,
+time,
+title,
+tr,
+u,
+ul,
+var,
+video,
+wbr {
+	transition: all 0.5s;
+	-moz-transition: all 0.5s;
+	-webkit-transition: all 0.5s;
+	-o-transition: all 0.5s;
+}

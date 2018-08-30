@@ -1,0 +1,23 @@
+{
+  "CSS": {
+    "beautifiers": ["Prettier"]
+  },
+  "JSON": {
+    "beautifiers": ["Prettier"]
+  },
+  "JSX": {
+    "beautifiers": ["Prettier"]
+  },
+  "JavaScript": {
+    "beautifiers": ["Prettier"]
+  },
+  "Less": {
+    "beautifiers": ["Prettier"]
+  },
+  "TypeScript": {
+    "beautifiers": ["Prettier"]
+  },
+  "Vue": {
+    "beautifiers": ["Prettier"]
+  }
+}

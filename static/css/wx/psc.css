@@ -1,0 +1,46 @@
+body {
+    color: #3e4d5c;
+    direction: ltr;
+    font: 14px '微软雅黑', Arial, sans-serif;
+}
+
+.icon {
+    padding-right: 3px;
+    padding-left: 3px;
+}
+.icon>a{
+text-decoration :none;
+}
+.icon>a>div {
+    text-align: center;
+    padding: 12px;
+}
+
+.icon img {
+    width: 30px;
+    height: 30px;
+}
+.icon p {
+    color: #3e4d5c;
+}
+
+.project-input {
+    text-align: center;
+}
+
+.project-input div {
+    
+}
+
+.project-input .btn {
+    border-radius: 6px !important;
+}
+
+.project-input .btn-lg {
+    padding: 15px 15px;
+    font-size: 20px;
+}
+
+.project-input .btn-lg i {
+    font-size: 20px;
+}
